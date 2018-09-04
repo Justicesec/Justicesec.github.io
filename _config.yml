@@ -3,15 +3,15 @@ title: Justice Blog
 SEOTitle: Justice的博客 | JT Blog
 header-img: img/post-bg-desk.jpg
 email: sxpsec99@163.com
-description: "Every failure is leading towards success."
-keyword: "Justice, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "Every failure is leading towards success.这一路，很感谢你能来，也不遗憾你离开"
+keyword: "Justice, JT Blog, Justice的博客, 安全, 网络安全, Linux, Python"
 url: "https://Justice.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+# github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "时间是一种很残酷的东西，它只会冲淡能够冲淡的，但也会洗尽铅华帮你留下该留下的!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
-github_username:    qiubaiying
+github_username:    Justice
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ disqus_username: Justicesec
 
 # Gitalk
 gitalk:
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: b728e0538aea9b80f666f30a18da395b
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
