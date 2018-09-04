@@ -1,11 +1,14 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+#title: BY Blog
+title: Justicesec Blog
+SEOTitle: Justicesec的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: sxpsec99@g163.com
+#description: "Every failure is leading towards success."
+description: "时间是一种很残酷的东西，它只会冲淡能够冲淡的，但也会洗尽铅华帮你留下该留下的."
+#keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "Justicesec, Justicesec Blog, Justicesec的博客, 网络安全, web安全, Linux, Python"
+url: "https://Justicesec.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
