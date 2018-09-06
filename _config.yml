@@ -1,7 +1,7 @@
 # Site settings
 #title: BY Blog
 title: Justicesec Blog
-SEOTitle: Justicesec的博客 | BY Blog
+SEOTitle: Justicesec的博客 | JT Blog
 header-img: img/post-bg-desk.jpg
 email: sxpsec99@g163.com
 #description: "Every failure is leading towards success."
@@ -102,16 +102,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "FreeBuf",
+        href: "http://www.freebuf.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "T00LS",
+        href: "https://www.t00ls.net/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Navisec",
+        href: "https://navisec.it/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Kali",
+        href: "http://www.kali.org.cn/"
+    },{
+        title: "Wooyun",
+        href: "http://wooyun.jozxing.cc/"
     }
 ]
