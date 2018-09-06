@@ -22,10 +22,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: true
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+zhihu_username:     无缘
 github_username:    Justicesec
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -65,11 +65,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: a1ed1948fff224a1567d                            #生成的clientID
+  clientSecret: 27541adf96ee88d09438622fe01172e799327151    #生成的clientSecret
+  repo: justicesec.github.io    #仓库名称
+  owner: Justicesec    #github用户名
+  admin: Justicesec
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
